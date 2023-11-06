@@ -14,6 +14,7 @@ function display_coin_change(){
     new_h1.innerHTML = changes;
     document.body.appendChild(new_h1);
     event.preventDefault();
+    
 
 }
 
